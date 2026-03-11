@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "email": "peter.sabet@orange.com",
+      "name": "Peter Sabet",
+      "passwordHash": "",
+      "role": "admin",
+      "squad": "All",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "active": true
+    },
+    {
+      "email": "karim.elzarka@orange.com",
+      "name": "Karim Elzarka",
+      "passwordHash": "",
+      "role": "admin",
+      "squad": "All",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "active": true
+    },
+    {
+      "email": "maryam.etry@orange.com",
+      "name": "Maryam Etry",
+      "passwordHash": "",
+      "role": "admin",
+      "squad": "All",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "active": true
+    },
+    {
+      "email": "mona.tamimy@orange.com",
+      "name": "Mona Tamimy",
+      "passwordHash": "",
+      "role": "admin",
+      "squad": "All",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "active": true
+    }
+  ]
+}

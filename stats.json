@@ -1,0 +1,55 @@
+{
+  "members": [],
+  "squads": [
+    {
+      "id": "training",
+      "name": "Training",
+      "icon": "🎓",
+      "tag": "Learning & Development",
+      "lead": "",
+      "metrics": { "activePrograms": "", "completionRate": "", "satisfaction": "" },
+      "objective": "",
+      "color": "#E8741A"
+    },
+    {
+      "id": "onboarding",
+      "name": "Onboarding",
+      "icon": "🚀",
+      "tag": "New Hire Experience",
+      "lead": "",
+      "metrics": { "newHires": "", "readiness": "", "avgDays": "" },
+      "objective": "",
+      "color": "#F59B42"
+    },
+    {
+      "id": "hiring",
+      "name": "Hiring",
+      "icon": "👥",
+      "tag": "Talent Acquisition",
+      "lead": "",
+      "metrics": { "openRoles": "", "pipeline": "", "timeToHire": "" },
+      "objective": "",
+      "color": "#E8741A"
+    },
+    {
+      "id": "transversal",
+      "name": "Transversal",
+      "icon": "🔗",
+      "tag": "Cross-Functional",
+      "lead": "",
+      "metrics": { "activeProjects": "", "progress": "", "stakeholders": "" },
+      "objective": "",
+      "color": "#F59B42"
+    },
+    {
+      "id": "pre-sales",
+      "name": "Pre-Sales",
+      "icon": "💼",
+      "tag": "Business Development",
+      "lead": "",
+      "metrics": { "proposals": "", "winRate": "", "pipeline": "" },
+      "objective": "",
+      "color": "#E8741A"
+    }
+  ]
+}
